@@ -223,4 +223,12 @@ osis:"Ps",
 type:"ot",
 nt:false,
 chapters:150
+},{
+abbr:"Spr",
+short:"Sprüche",
+long:"Sprüche",
+osis:"Prov",
+type:"ot",
+nt:false,
+chapters:31
 }];
